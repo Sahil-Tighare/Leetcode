@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Sahil-Tighare/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sahil-Tighare/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Sahil-Tighare/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil-Tighare/Leetcode/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sahil-Tighare/Leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
