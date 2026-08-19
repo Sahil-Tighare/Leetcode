@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Sahil-Tighare/Leetcode/tree/master/0561-array-partition) |
+| [1480-running-sum-of-1d-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sahil-Tighare/Leetcode/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
