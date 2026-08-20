@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil-Tighare/Leetcode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sahil-Tighare/Leetcode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
