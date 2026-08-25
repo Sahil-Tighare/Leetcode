@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sahil-Tighare/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sahil-Tighare/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/Sahil-Tighare/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Sahil-Tighare/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Sahil-Tighare/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
