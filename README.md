@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahil-Tighare/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Sahil-Tighare/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Sahil-Tighare/Leetcode/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahil-Tighare/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sahil-Tighare/Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sahil-Tighare/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sahil-Tighare/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sahil-Tighare/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Sahil-Tighare/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahil-Tighare/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sahil-Tighare/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Sahil-Tighare/Leetcode/tree/master/0561-array-partition) |
