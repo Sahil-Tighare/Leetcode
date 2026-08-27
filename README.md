@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sahil-Tighare/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Tighare/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Sahil-Tighare/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sahil-Tighare/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Sahil-Tighare/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sahil-Tighare/Leetcode/tree/master/0724-find-pivot-index) |
