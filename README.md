@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sahil-Tighare/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sahil-Tighare/Leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Sahil-Tighare/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sahil-Tighare/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sahil-Tighare/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
