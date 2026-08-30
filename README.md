@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Sahil-Tighare/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sahil-Tighare/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Sahil-Tighare/Leetcode/tree/master/0771-jewels-and-stones) |
