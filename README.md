@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sahil-Tighare/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Sahil-Tighare/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sahil-Tighare/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahil-Tighare/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sahil-Tighare/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sahil-Tighare/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
