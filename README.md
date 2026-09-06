@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sahil-Tighare/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sahil-Tighare/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sahil-Tighare/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -144,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sahil-Tighare/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
