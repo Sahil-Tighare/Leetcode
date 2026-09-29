@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sahil-Tighare/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sahil-Tighare/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Sahil-Tighare/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sahil-Tighare/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sahil-Tighare/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
