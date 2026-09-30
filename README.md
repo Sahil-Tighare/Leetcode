@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sahil-Tighare/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Sahil-Tighare/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sahil-Tighare/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil-Tighare/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sahil-Tighare/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahil-Tighare/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sahil-Tighare/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil-Tighare/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sahil-Tighare/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sahil-Tighare/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
