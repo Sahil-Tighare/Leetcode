@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Sahil-Tighare/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sahil-Tighare/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sahil-Tighare/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sahil-Tighare/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sahil-Tighare/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Sahil-Tighare/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
