@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sahil-Tighare/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sahil-Tighare/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sahil-Tighare/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Sahil-Tighare/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sahil-Tighare/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
